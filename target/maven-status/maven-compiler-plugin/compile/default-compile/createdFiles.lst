@@ -1,0 +1,10 @@
+com\designpatterns\Class\Catalogue.class
+com\designpatterns\Class\GasolineCar.class
+com\designpatterns\Class\GasolineScooter.class
+com\designpatterns\Interface\VehicleFactory.class
+com\designpatterns\Class\ElectricCar.class
+com\designpatterns\AbstractClass\Car.class
+com\designpatterns\Class\FactoryVehicleElectricity.class
+com\designpatterns\Class\FactoryVehicleGasoline.class
+com\designpatterns\Class\ElectricScooter.class
+com\designpatterns\AbstractClass\Scooter.class
